@@ -5,7 +5,7 @@ var instagram = "https://www.instagram.com/manik._garg";
 var email = "mailto:manikgarg06@gmail.com";
 var shop = "https://node-complete-shop-guide.herokuapp.com/";
 var burger = "https://react-burger-app-5d664.web.app/";
-var resume = "my-resume/files/my-resume.pdf";
+var resume = "files/my-resume.pdf";
 var letsflip = "https://letsflip.web.app/";
 
 var p1 = "ude.my/UC-2650ed72-5bf7-4661-8d83-299000b01b8b"
