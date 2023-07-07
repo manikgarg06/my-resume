@@ -8,7 +8,7 @@ var burger = "https://react-burger-app-5d664.web.app/";
 var resume = "files/my-resume.pdf";
 var letsflip = "https://letsflip.web.app/";
 
-var p1 = "ude.my/UC-2650ed72-5bf7-4661-8d83-299000b01b8b"
+var p1 = "https://www.udemy.com/certificate/UC-2650ed72-5bf7-4661-8d83-299000b01b8b"
 var p2 = "https://udemy-certificate.s3.amazonaws.com/pdf/UC-329820f0-8cb5-4db0-bc88-941386090930.pdf"
 var p3="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7b38a4ae-b6b6-418f-9096-e7c5550cb966.pdf"
 var p4="https://udemy-certificate.s3.amazonaws.com/pdf/UC-ZO8MGMMO.pdf"
